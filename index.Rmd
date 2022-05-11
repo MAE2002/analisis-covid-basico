@@ -1,0 +1,14 @@
+---
+title: Análisis de datos de COVID-19 de Corta Rica mediante funciones del código base
+  de R
+author: "Mariano Arroyo"
+date: '2022-05-11'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Presentación
+Este documento presenta gráficos generados a partir de los datos de COVID-19 en Costa Rica compartidos por el Ministerio de Salud en https://geovision.uned.ac.cr/oges/
